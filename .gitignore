@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# MediaPipe model
+hand_landmarker.task
+
+# Output images
+output_*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
