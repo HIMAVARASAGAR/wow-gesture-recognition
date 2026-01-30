@@ -63,11 +63,12 @@ This satisfies the requirement of detecting **circles and lines formed by landma
 ### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Run the Script
 ```bash
 python wow_gesture.py
-
+```
 ### 3.Output 
 The script processes the input image and generates an output image highlighting:
 - The circular loop formed by the thumb and index finger
